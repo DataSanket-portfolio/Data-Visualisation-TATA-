@@ -3,7 +3,7 @@
 
 ## Job Simulation Objective
 
-As part of a virtual internship experience with TATA, I completed a comprehensive data analysis and visualization project focused on uncovering key business insights for executive stakeholders.
+As part of a virtual internship experience with TATA, I completed a comprehensive data analysis and visualization project focused on uncovering key business insights for executive stakeholders and presented the insights to the CMO and CEO of the business units sharing important findings and visual indications built using Tableau.
 
 ## Data Overview:
 The dataset provided included the following columns:
